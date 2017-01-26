@@ -1,0 +1,26 @@
+body {
+  background-color: #ABB2B9;
+}
+
+.main {
+  background-color: #fff;
+  box-shadow: 5px 2px 2px black;
+  padding:  10px;
+  margin-top: 10%;
+}
+
+.row {
+  /*border: solid green 2px;*/
+  width: 905px;
+  margin-left: 10%;
+}
+
+.col-md-4 {
+  border: solid black 2px;
+  height: 300px;
+  width: 300px;
+}
+
+#game-board {
+  border: solid red 2px;
+}
